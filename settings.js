@@ -12,6 +12,7 @@ global.APIKeys = {
 }
 
 global.alivemsg = `📤I am alive🤞
+🔰MR.DARK SAVIYA🔰
 👻How can I help you?😉` //Costomize Alive Message (type your message in `` )
 
 
@@ -30,7 +31,7 @@ global.doc6 = 'application/vnd.android.package-archive'
 
 //owner v card
 global.vcardowner = ['+940714926860'] // owner number
-global.ownername = "😎𝐑.𝐀.𝐒𝐀𝐕𝐈𝐍𝐃𝐔" // owner name
+global.ownername = "😎𝐑.𝐀.𝐒𝐀𝐕𝐈𝐍𝐃𝐔 𝐒𝐀𝐓𝐇𝐌𝐈𝐍𝐀" // owner name
 global.ytname = "" // yt chanel name
 global.socialm = "GitHub: prabhasha2006" // github or insta name
 global.location = "India, Mizoram, Aizawl" // location
@@ -53,7 +54,7 @@ global.botname = '𝐃𝐀𝐑𝐊╺ 𝐒𝐀𝐕𝐈𝐘𝐀 - 𝐁𝐎𝐓' /
 global.packname = "Bot Sticker" // sticker packname
 global.author = "𝐃𝐀𝐑𝐊╺ 𝐒𝐀𝐕𝐈𝐘𝐀" // sticker author
 global.dragonemoji = '🧩' // Menu emoji
-global.footer = '[ ◉ 𝙳𝙰𝚁𝙺-𝙰𝚅𝙸𝚈𝙰-𝙼𝙳 ]' //
+global.footer = '[ ◉ DARKDARK-SAVIYA-MD ]' //
 
 //database
 global.premium = ['+940714926860'] //ur premium numbers
