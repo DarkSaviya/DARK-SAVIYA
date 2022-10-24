@@ -53,7 +53,7 @@ global.botname = '𝐃𝐀𝐑𝐊╺ 𝐒𝐀𝐕𝐈𝐘𝐀 - 𝐁𝐎𝐓' /
 global.packname = "Bot Sticker" // sticker packname
 global.author = "𝐃𝐀𝐑𝐊╺ 𝐒𝐀𝐕𝐈𝐘𝐀" // sticker author
 global.dragonemoji = '🧩' // Menu emoji
-global.footer = '[ ◉ DARK-SAVIYA-MD ]' //
+global.footer = '[ ◉ 𝙳𝙰𝚁𝙺-𝙰𝚅𝙸𝚈𝙰-𝙼𝙳 ]' //
 
 //database
 global.premium = ['+940714926860'] //ur premium numbers
