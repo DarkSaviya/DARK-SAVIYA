@@ -12,7 +12,7 @@ global.APIKeys = {
 }
 
 global.alivemsg = `📤I am alive🤞
-🔰MR.DARK SAVIYA🔰
+🔰𝐌𝐑.𝐒𝐚𝐯𝐢𝐧𝐝𝐮 𝐒𝐚𝐭𝐡𝐦𝐢𝐧𝐚🔰
 👻How can I help you?😉` //Costomize Alive Message (type your message in `` )
 
 
@@ -31,13 +31,13 @@ global.doc6 = 'application/vnd.android.package-archive'
 
 //owner v card
 global.vcardowner = ['+940714926860'] // owner number
-global.ownername = "😎𝐑.𝐀.𝐒𝐀𝐕𝐈𝐍𝐃𝐔 𝐒𝐀𝐓𝐇𝐌𝐈𝐍𝐀" // owner name
+global.ownername = "🔰✌️𝐑.𝐀.𝐒𝐀𝐕𝐈𝐍𝐃𝐔 𝐒𝐀𝐓𝐇𝐌𝐈𝐍𝐀" // owner name
 global.ytname = "" // yt chanel name
 global.socialm = "GitHub: prabhasha2006" // github or insta name
 global.location = "India, Mizoram, Aizawl" // location
 
 //bot body 
-global.alivepic = `https://i.ibb.co/RPg6jNk/20220803-081426.png` // alive picture \\ use "https://ibb.com" to upload photos. < 1 MB
+global.alivepic = `https://i.ibb.co/qyPBwhD/20220803-081426.png` // alive picture \\ use "https://ibb.com" to upload photos. < 1 MB
 
 global.dragonchat = "false"  // chat bot  "true" / "false" (200 auto replies in this)
 global.callblock = "false" // call block "true" / "false" ("true"  to block callers)
